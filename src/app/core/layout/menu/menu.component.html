@@ -1,0 +1,9 @@
+<div class="aside-inner">
+  <nav class="sidebar" [class.show-scrollbar]="asideScrollbar">
+    <ul class="nav">
+      <li *ngFor="let menuItem of menu">
+        <app-category [item]="menuItem"></app-category>  
+      </li>
+    </ul>
+  </nav>
+</div>
