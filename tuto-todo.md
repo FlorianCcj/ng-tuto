@@ -1,8 +1,8 @@
-* * T-001-attribut de component
-* * T-002-ajouter un composant dans un autre composant
-* * T-003-model
-* * T-004-print from an object
-* * T-005-pipe
+* T-001-attribut de component
+* T-002-ajouter un composant dans un autre composant
+* T-003-model
+* T-004-print from an object
+* T-005-pipe
 * T-006-template driven form
 * T-007-ngFor
 * T-008-event handler
@@ -44,7 +44,7 @@
 * F-026-Http
 * F-027-Routing & nav
 * F-028-Testing
-* 
+
 * K-001-i18n
 * K-002-language service
 * K-003- Secu
